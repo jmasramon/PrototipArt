@@ -1,0 +1,77 @@
+{
+    "type": "Ext.app.Application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "views": [
+            "MyMap",
+            "MyTabPanel"
+        ],
+        "controllers": [
+            "MyController"
+        ],
+        "name": "MyApp",
+        "startupImage": [
+            "{\"320x460\":\"resources/startup/splashScreen.png\"}"
+        ]
+    },
+    "designerId": "application",
+    "cn": [
+        {
+            "type": "Ext.Loader",
+            "reference": {
+                "name": "loader",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "Loader28"
+            },
+            "designerId": "fc18a72b-3540-495a-96c8-885033fb4f98"
+        },
+        {
+            "type": "fixedfunction",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "launch",
+                "fn": "launch",
+                "implHandler": [
+                    "Ext.Viewport.setMasked({",
+                    "    xtype: 'loadmask',",
+                    "    message: 'Loading, please wait'",
+                    "});",
+                    "",
+                    "new Ext.util.DelayedTask(function () {",
+                    "    Ext.Viewport.setMasked(false);",
+                    "}).delay(500);",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "designerId": "f5405305-1ee6-4a25-8e72-948c52473235"
+        },
+        {
+            "type": "Ext.Viewport",
+            "reference": {
+                "name": "viewport",
+                "type": "object"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "Viewport",
+                "autoMaximize": true,
+                "preventZooming": true
+            },
+            "designerId": "ed2fb504-19b2-40d1-a0fd-7b5ac6f4db10"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "cssresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "url": "resources/css/prototipart.css",
+        "id": "cssfile"
+    },
+    "designerId": "d52fa2cb-fada-42f5-b5a3-e36b473d6aa6"
+}

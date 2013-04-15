@@ -1,0 +1,49 @@
+{
+    "type": "Ext.app.Controller",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "MyController"
+    },
+    "designerId": "49b94b63-ab89-4e91-95ab-a14439f9a095",
+    "cn": [
+        {
+            "type": "controllerref",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "myMap",
+                "ref": "myMap",
+                "selector": "MyMap"
+            },
+            "designerId": "39364362-797e-44d3-a51d-91803373758d"
+        },
+        {
+            "type": "controlleraction",
+            "reference": {
+                "name": "listeners",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "showPanel",
+                "fn": "showPanel",
+                "designer|params": [
+                    "target"
+                ],
+                "implHandler": [
+                    "console.print('Tapped!!!');"
+                ],
+                "name": "click",
+                "designer|controlQuery": "MyMap marker"
+            },
+            "designerId": "c25b636b-e9e8-456a-ad3c-1ec8ba92b510"
+        }
+    ]
+}

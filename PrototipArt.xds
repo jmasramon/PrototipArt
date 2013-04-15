@@ -1,0 +1,80 @@
+{
+    "name": "PrototipArt",
+    "settings": {
+        "spacesToIndent": 4,
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "urlPrefix": "http://localhost/PrototipArt",
+        "exportPath": "",
+        "buildShouldOverwriteIndex": true
+    },
+    "xdsVersion": "2.2.0",
+    "xdsBuild": 908,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000499,
+    "framework": "touch20",
+    "topInstanceFileMap": {
+        "e97e6332-5675-4d37-92fe-9da1b7b5aaa0": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        },
+        "d52fa2cb-fada-42f5-b5a3-e36b473d6aa6": {
+            "paths": [
+                "metadata/resource/css"
+            ],
+            "className": "css"
+        },
+        "8f32527b-a290-4670-916e-da8a964401ce": {
+            "paths": [
+                "metadata/resource/GoogleMapsAPI"
+            ],
+            "className": "GoogleMapsAPI"
+        },
+        "42aff60e-1b4c-43cd-bb7f-c99b39b8124f": {
+            "paths": [
+                "metadata/view/MyMap",
+                "app/view/override/MyMap.js",
+                "app/view/MyMap.js"
+            ],
+            "className": "MyMap"
+        },
+        "73b79556-bb3e-4c02-b0e4-a33c4972dcbf": {
+            "paths": [
+                "metadata/view/MyTabPanel",
+                "app/view/override/MyTabPanel.js",
+                "app/view/MyTabPanel.js"
+            ],
+            "className": "MyTabPanel"
+        },
+        "49b94b63-ab89-4e91-95ab-a14439f9a095": {
+            "paths": [
+                "metadata/controller/MyController",
+                "app/controller/override/MyController.js",
+                "app/controller/MyController.js"
+            ],
+            "className": "MyController"
+        }
+    },
+    "viewOrderMap": {
+        "view": [
+            "42aff60e-1b4c-43cd-bb7f-c99b39b8124f",
+            "73b79556-bb3e-4c02-b0e4-a33c4972dcbf"
+        ],
+        "store": [],
+        "controller": [
+            "49b94b63-ab89-4e91-95ab-a14439f9a095"
+        ],
+        "model": [],
+        "resource": [
+            "e97e6332-5675-4d37-92fe-9da1b7b5aaa0",
+            "d52fa2cb-fada-42f5-b5a3-e36b473d6aa6",
+            "8f32527b-a290-4670-916e-da8a964401ce"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
