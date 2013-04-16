@@ -32,6 +32,9 @@
                                     "id": "c66cd0d8-bc6b-4d67-a274-ee953fe68a01"
                                 },
                                 {
+                                    "id": "771a01a9-7b6e-4a63-817f-5cd8c2da97ed"
+                                },
+                                {
                                     "id": "2cc896fa-cd34-4c8c-893d-72de069b4816"
                                 }
                             ]
@@ -82,11 +85,11 @@
         "topInstance": null
     },
     "inspectorState": {
-        "topInstance": "application",
-        "selectedInstance": "ed2fb504-19b2-40d1-a0fd-7b5ac6f4db10"
+        "topInstance": "73b79556-bb3e-4c02-b0e4-a33c4972dcbf",
+        "selectedInstance": "771a01a9-7b6e-4a63-817f-5cd8c2da97ed"
     },
     "codeState": {
-        "topInstance": "application"
+        "topInstance": "73b79556-bb3e-4c02-b0e4-a33c4972dcbf"
     },
     "editMode": "code"
 }

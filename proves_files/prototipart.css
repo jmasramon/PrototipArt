@@ -4,11 +4,7 @@ body, div, dl, dt, dd, ul, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, le
 }
 
 p {
-	font: 14px/20px italic Times, serif;
-}
-
-div.hidden{
-	visibility: hidden;
+	font-size: 12px;
 }
 
 blockquote.style1 {

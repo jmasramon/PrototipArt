@@ -9,10 +9,10 @@
         "exportPath": "",
         "buildShouldOverwriteIndex": true
     },
-    "xdsVersion": "2.2.0",
-    "xdsBuild": 908,
+    "xdsVersion": "2.2.1",
+    "xdsBuild": 951,
     "schemaVersion": 1,
-    "upgradeVersion": 210000000499,
+    "upgradeVersion": 210000000500,
     "framework": "touch20",
     "topInstanceFileMap": {
         "e97e6332-5675-4d37-92fe-9da1b7b5aaa0": {
