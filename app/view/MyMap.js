@@ -64,7 +64,7 @@ Ext.define('MyApp.view.MyMap', {
         var youAreHere = new google.maps.Marker({
             position: new google.maps.LatLng(41.986699,2.824143), // Mig del pont
             map: googleMap,
-            icon: 'blue_MarkerA.png'
+            icon: {url: 'resources/img/blue_MarkerA.png'}
         });
 
         var infowindow = new google.maps.InfoWindow({

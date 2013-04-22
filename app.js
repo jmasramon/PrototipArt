@@ -44,12 +44,8 @@ Ext.application({
 
         new Ext.util.DelayedTask(function () {
             Ext.Viewport.setMasked(false);
-        }).delay(500);
+            Ext.create('MyApp.view.MyMap', {fullscreen: true});
+        }).delay(4000);
 
-
-
-
-        Ext.create('MyApp.view.MyMap', {fullscreen: true});
-    }
-
+     }
 });

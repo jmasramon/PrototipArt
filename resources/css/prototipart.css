@@ -3,6 +3,11 @@ body, div, dl, dt, dd, ul, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, le
 	padding:0;
 }
 
+body{
+	background:url(../startup/splashScreen.png);
+	background-size:contain;
+}
+
 p {
 	font: 14px/20px italic Times, serif;
 }
@@ -58,8 +63,7 @@ blockquote.style2 span {
 }
 
 #cathedral {
-	background: url(../startup/parchment_modified.png);
-	height: 100%;
+	background-size:contain;
 	padding: 10px;
 }
 

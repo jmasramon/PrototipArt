@@ -50,7 +50,7 @@
                     "",
                     "new Ext.util.DelayedTask(function () {",
                     "    Ext.Viewport.setMasked(false);",
-                    "}).delay(500);",
+                    "}).delay(3000);",
                     "",
                     "",
                     "",
