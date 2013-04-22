@@ -1,0 +1,106 @@
+// Let's start with the basics
+$base-color: #7c92ae;
+$base-gradient: 'glossy';
+
+// Lists
+$list-active-gradient: 'bevel';
+$list-header-bg-color: transparentize(saturate($base-color, 10%), .25);
+$list-header-gradient: 'matte';
+
+// Tabs
+$tabs-dark: #111;
+
+@import 'sencha-touch/default/all';
+
+@include sencha-panel;
+@include sencha-buttons;
+@include sencha-sheet;
+@include sencha-picker;
+@include sencha-tabs;
+@include sencha-toolbar;
+@include sencha-toolbar-forms;
+@include sencha-carousel;
+@include sencha-indexbar;
+@include sencha-list;
+@include sencha-list-paging;
+@include sencha-list-pullrefresh;
+@include sencha-layout;
+@include sencha-form;
+@include sencha-msgbox;
+@include sencha-loading-spinner;
+@include sencha-draw;
+@include sencha-charts;
+
+.x-toolbar-light .x-title {
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.5) 0 -0.08em 0;
+}
+
+.x-button-back .x-button-label {
+    color: #fff;
+}
+
+/* Here we override global variables as required by our design */
+/* Custom color */
+$red: 18;
+$green: 152;
+$blue: 227;
+$alpha: 0.7;
+$blue: rgba($red, $green, $blue, $alpha);
+
+/* Base parameters */
+$base-color: $blue;
+$font-family: AvenirNextCondensed-DemiBold, sans;
+$include-border-radius: false;
+$base-gradient: recessed; /* bevel, glossy, recessed, matte (default) */
+
+/* Buttons */
+$button-height: 2em;
+$include-button-uis: false;
+
+/* Lists */
+$list-color: complement(darken($blue, 20%));
+$list-zebrastripe: true;
+
+/* Variables with calculations */
+$height: 920px;
+div.instructions {
+	width: 2in + 7pt;
+	height: $height / 2;
+}
+
+/* Mixins */
+@mixin some-special-style($color, $font-size) {
+	font: {
+		family: serif;
+		size: $font-size;
+	}
+	color: $color;
+}
+div.special {
+	@include some-special-style(red, 45pt);
+	margin: 1em;
+}
+div.notsospecial {
+	@include some-special-style(green, 3em);
+	margin: 1em;
+	padding: 10px;
+	background-color: yellow;
+}
+
+#ext-element-15 {
+	background-image: url(http://localhost/PrototipArt/resources/startup/parchment_modified.png);
+	background-size:contain;
+}
+#ext-element-19 {
+	background-image: url(http://localhost/PrototipArt/resources/startup/parchment_modified.png);
+	background-size:contain;
+}
+#ext-element-22 {
+	background-image: url(http://localhost/PrototipArt/resources/startup/parchment_modified.png);
+	background-size:contain;
+}
+#ext-element-25 {
+	background-image: url(http://localhost/PrototipArt/resources/startup/parchment_modified.png);
+	background-size:contain;
+}
