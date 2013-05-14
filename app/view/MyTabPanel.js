@@ -48,7 +48,45 @@ Ext.define('MyApp.view.MyTabPanel', {
                             },
                             {
                                 xtype: 'container',
-                                html: '        <div id="cathedral">             <div id="rounded_box">                 <section id="content">                     <h1>                         La catedral de Girona                     </h1>                     <h2>                         Intro                     </h2>                     <blockquote class="style1">                         <span>Iniciada per l\'absis i concebuda en principi coma una esglèsia de tres naus, es va construir entre els ansy 1312 i 1347</span>                     </blockquote>                     <h2>                         Did you know?                     </h2>                     <blockquote class="style1">                         <span>Iniciada per l\'absis i concebuda en principi coma una esglèsia de tres naus, es va construir entre els ansy 1312 i 1347</span>                     </blockquote>                </section>             </div>         </div> '
+                                html: '',
+                                ui: '',
+                                items: [
+                                    {
+                                        xtype: 'textareafield',
+                                        labelWidth: '0%',
+                                        value: 'La Catedral de girona',
+                                        readOnly: true,
+                                        maxRows: 1
+                                    },
+                                    {
+                                        xtype: 'textareafield',
+                                        labelWidth: '0%',
+                                        value: 'Intro',
+                                        readOnly: true,
+                                        maxRows: 1
+                                    },
+                                    {
+                                        xtype: 'textareafield',
+                                        labelWidth: '0%',
+                                        value: 'Iniciada per l`absis i concebuda en principi com a una esglèsia de tres naus, es va construir entre els anys 1312 i 1347',
+                                        readOnly: true,
+                                        maxRows: 3
+                                    },
+                                    {
+                                        xtype: 'textareafield',
+                                        labelWidth: '0%',
+                                        value: 'Did you know?',
+                                        readOnly: true,
+                                        maxRows: 1
+                                    },
+                                    {
+                                        xtype: 'textareafield',
+                                        labelWidth: '0%',
+                                        value: 'Iniciada per l`absis i concebuda en principi com a una esglèsia de tres naus, es va construir entre els anys 1312 i 1347',
+                                        readOnly: true,
+                                        maxRows: 3
+                                    }
+                                ]
                             }
                         ]
                     }

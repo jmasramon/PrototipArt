@@ -111,11 +111,109 @@
                             },
                             "codeClass": null,
                             "userConfig": {
-                                "html": "        <div id=\"cathedral\">             <div id=\"rounded_box\">                 <section id=\"content\">                     <h1>                         La catedral de Girona                     </h1>                     <h2>                         Intro                     </h2>                     <blockquote class=\"style1\">                         <span>Iniciada per l'absis i concebuda en principi coma una esglèsia de tres naus, es va construir entre els ansy 1312 i 1347</span>                     </blockquote>                     <h2>                         Did you know?                     </h2>                     <blockquote class=\"style1\">                         <span>Iniciada per l'absis i concebuda en principi coma una esglèsia de tres naus, es va construir entre els ansy 1312 i 1347</span>                     </blockquote>                </section>             </div>         </div> ",
+                                "html": "",
+                                "ui": "",
                                 "designer|userClassName": "MyContainer5",
                                 "designer|displayName": "Mummies"
                             },
-                            "designerId": "2cc896fa-cd34-4c8c-893d-72de069b4816"
+                            "designerId": "2cc896fa-cd34-4c8c-893d-72de069b4816",
+                            "cn": [
+                                {
+                                    "type": "Ext.field.TextArea",
+                                    "reference": {
+                                        "name": "items",
+                                        "type": "array"
+                                    },
+                                    "codeClass": null,
+                                    "userConfig": {
+                                        "designer|userClassName": "MyTextArea1",
+                                        "label": null,
+                                        "labelWidth": "0%",
+                                        "value": [
+                                            "La Catedral de girona"
+                                        ],
+                                        "readOnly": true,
+                                        "maxRows": 1
+                                    },
+                                    "designerId": "24b45c24-69e3-4808-8a81-a5596f5f8f88"
+                                },
+                                {
+                                    "type": "Ext.field.TextArea",
+                                    "reference": {
+                                        "name": "items",
+                                        "type": "array"
+                                    },
+                                    "codeClass": null,
+                                    "userConfig": {
+                                        "designer|userClassName": "MyTextArea1",
+                                        "label": null,
+                                        "labelWidth": "0%",
+                                        "value": [
+                                            "Intro"
+                                        ],
+                                        "readOnly": true,
+                                        "maxRows": 1
+                                    },
+                                    "designerId": "e43ba6a3-872b-47e8-a7cc-b72f9e83c9dc"
+                                },
+                                {
+                                    "type": "Ext.field.TextArea",
+                                    "reference": {
+                                        "name": "items",
+                                        "type": "array"
+                                    },
+                                    "codeClass": null,
+                                    "userConfig": {
+                                        "designer|userClassName": "MyTextArea",
+                                        "label": null,
+                                        "labelWidth": "0%",
+                                        "value": [
+                                            "Iniciada per l`absis i concebuda en principi com a una esglèsia de tres naus, es va construir entre els anys 1312 i 1347"
+                                        ],
+                                        "readOnly": true,
+                                        "maxRows": 3
+                                    },
+                                    "designerId": "28338c2e-81b6-4ae5-8257-af6b7135576b"
+                                },
+                                {
+                                    "type": "Ext.field.TextArea",
+                                    "reference": {
+                                        "name": "items",
+                                        "type": "array"
+                                    },
+                                    "codeClass": null,
+                                    "userConfig": {
+                                        "designer|userClassName": "MyTextArea1",
+                                        "label": null,
+                                        "labelWidth": "0%",
+                                        "value": [
+                                            "Did you know?"
+                                        ],
+                                        "readOnly": true,
+                                        "maxRows": 1
+                                    },
+                                    "designerId": "41c67116-774f-4c67-bac5-c508193a0de2"
+                                },
+                                {
+                                    "type": "Ext.field.TextArea",
+                                    "reference": {
+                                        "name": "items",
+                                        "type": "array"
+                                    },
+                                    "codeClass": null,
+                                    "userConfig": {
+                                        "designer|userClassName": "MyTextArea",
+                                        "label": null,
+                                        "labelWidth": "0%",
+                                        "value": [
+                                            "Iniciada per l`absis i concebuda en principi com a una esglèsia de tres naus, es va construir entre els anys 1312 i 1347"
+                                        ],
+                                        "readOnly": true,
+                                        "maxRows": 3
+                                    },
+                                    "designerId": "5e57b405-2b56-4a1b-a930-8e0fa6d83e1b"
+                                }
+                            ]
                         }
                     ]
                 }
