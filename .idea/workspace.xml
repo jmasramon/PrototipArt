@@ -8,19 +8,198 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.AppleDouble/apple.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.AppleDouble/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.AppleDouble/sencha-touch.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_appearance.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_background-clip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_background-origin.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_background-size.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_border-radius.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_box-shadow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_box-sizing.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_box.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_columns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_filter.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_font-face.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_hyphenation.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_images.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_inline-block.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_opacity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_regions.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_shared.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_text-shadow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_transform.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/.AppleDouble/_transition.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_appearance.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_background-clip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_background-origin.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_background-size.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_border-radius.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_box-shadow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_box-sizing.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_box.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_columns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_filter.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_font-face.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_hyphenation.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_images.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_inline-block.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_opacity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_regions.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_shared.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_text-shadow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_transform.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/076cbb470f5067ab6d6deaa7eee9fa2d4c39bbb1/_transition.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/1d29402d6c7cb7ef3ae97e247b2063f857c746bf/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/1d29402d6c7cb7ef3ae97e247b2063f857c746bf/.AppleDouble/_link-colors.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/1d29402d6c7cb7ef3ae97e247b2063f857c746bf/_link-colors.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/56cf0e945c804599847a8da8e16feccedd9825e2/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/56cf0e945c804599847a8da8e16feccedd9825e2/.AppleDouble/_core.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/56cf0e945c804599847a8da8e16feccedd9825e2/.AppleDouble/_layout.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/56cf0e945c804599847a8da8e16feccedd9825e2/.AppleDouble/_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/56cf0e945c804599847a8da8e16feccedd9825e2/_core.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/56cf0e945c804599847a8da8e16feccedd9825e2/_layout.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/56cf0e945c804599847a8da8e16feccedd9825e2/_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/59e3d9420c7bf586f0fbe13c37e81d72eaf414f6/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/59e3d9420c7bf586f0fbe13c37e81d72eaf414f6/.AppleDouble/_colors.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/59e3d9420c7bf586f0fbe13c37e81d72eaf414f6/.AppleDouble/_typography.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/59e3d9420c7bf586f0fbe13c37e81d72eaf414f6/_colors.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/59e3d9420c7bf586f0fbe13c37e81d72eaf414f6/_typography.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_blueprint-grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_carbon-fiber.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_checkerboard.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_cicada.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_gradients.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_houndstooth.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_lined-paper.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_madras.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_noise.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_polka-dot.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_radial-overlay.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_striped.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_stripes.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_tablecloth.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/.AppleDouble/_tartan.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_blueprint-grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_carbon-fiber.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_checkerboard.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_cicada.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_gradients.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_houndstooth.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_lined-paper.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_madras.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_noise.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_polka-dot.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_radial-overlay.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_striped.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_stripes.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_tablecloth.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/98c351edda07881c5b735800fc8ab95ae525e0e7/_tartan.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/ac180691ca8f1f046926aba36a0c310b8ea1016f/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/ac180691ca8f1f046926aba36a0c310b8ea1016f/.AppleDouble/_css3.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/ac180691ca8f1f046926aba36a0c310b8ea1016f/.AppleDouble/_support.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/ac180691ca8f1f046926aba36a0c310b8ea1016f/_css3.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/ac180691ca8f1f046926aba36a0c310b8ea1016f/_support.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/b9e83ccb8ab27fde790cb24879ae0aff4b6d9210/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/b9e83ccb8ab27fde790cb24879ae0aff4b6d9210/.AppleDouble/_background.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/b9e83ccb8ab27fde790cb24879ae0aff4b6d9210/.AppleDouble/_color.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/b9e83ccb8ab27fde790cb24879ae0aff4b6d9210/_background.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/b9e83ccb8ab27fde790cb24879ae0aff4b6d9210/_color.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/c6a5ecc5f9b28254dd15953385e82d629c544531/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/c6a5ecc5f9b28254dd15953385e82d629c544531/.AppleDouble/apple.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/c6a5ecc5f9b28254dd15953385e82d629c544531/.AppleDouble/sencha-touch.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/c6a5ecc5f9b28254dd15953385e82d629c544531/apple.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/c6a5ecc5f9b28254dd15953385e82d629c544531/sencha-touch.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_carousel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_charts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_draw.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_form-sliders.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_form.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_img.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_indexbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_list.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_loading-spinner.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_map.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_media.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_msgbox.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_panel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_picker.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_sheets.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_tabs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_toolbar-forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/.AppleDouble/_toolbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_buttons.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_carousel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_charts.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_draw.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_form-sliders.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_form.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_img.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_indexbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_list.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_loading-spinner.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_map.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_media.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_msgbox.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_panel.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_picker.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_sheets.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_tabs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_toolbar-forms.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/d547e3acb04fd1dd48f55a43c2b0bd9637e87021/_toolbar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/.AppleDouble/_all.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/.AppleDouble/_core.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/.AppleDouble/_global.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/.AppleDouble/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/.AppleDouble/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/.AppleDouble/_widgets.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/_all.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/_core.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/_global.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/e23a49238554b9d83a1491d95384463159ebc65e/_widgets.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/edaf8bb070a94b6a5a8d630cd8828940adec5dfa/.AppleDouble/.Parent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/edaf8bb070a94b6a5a8d630cd8828940adec5dfa/.AppleDouble/_float.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/edaf8bb070a94b6a5a8d630cd8828940adec5dfa/.AppleDouble/_hacks.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/edaf8bb070a94b6a5a8d630cd8828940adec5dfa/_float.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/.sass-cache/edaf8bb070a94b6a5a8d630cd8828940adec5dfa/_hacks.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/apple.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/sass/sencha-touch.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/img/175px-ND_Amiens_-_gargouille.JPG" afterPath="$PROJECT_DIR$/resources/img/175px-ND_Amiens_-_gargouille.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/startup/320x460.jpg" afterPath="$PROJECT_DIR$/resources/startup/320x460.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/img/church map.jpg" afterPath="$PROJECT_DIR$/resources/img/church map.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/img/closequote1.gif" afterPath="$PROJECT_DIR$/resources/img/closequote1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/startup/parchment.jpg" afterPath="$PROJECT_DIR$/resources/startup/parchment.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/startup/parchment_modified.png" afterPath="$PROJECT_DIR$/resources/startup/parchment_modified.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/startup/splashScreen.png" afterPath="$PROJECT_DIR$/resources/startup/splashScreen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metadata/Application" afterPath="$PROJECT_DIR$/metadata/Application" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.html" afterPath="$PROJECT_DIR$/app.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/apple.css" afterPath="$PROJECT_DIR$/resources/css/apple.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/prototipart.css" afterPath="$PROJECT_DIR$/resources/css/prototipart.css" />
     </list>
     <ignored path="PrototipArt.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368551069868" ignored="false" />
-    <file path="/a.dummy" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368557386559" ignored="false" />
+    <file path="/a.dummy" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368564033128" ignored="false" />
     <file path="/prototipart.css" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368554298593" ignored="false" />
     <file path="/package.json" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368556057219" ignored="false" />
     <file path="/app.js" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368556917296" ignored="false" />
     <file path="/a.js" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368556269501" ignored="false" />
     <file path="/apple.css" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368557557402" ignored="false" />
+    <file path="$PROJECT_DIR$/resources/sass/apple.scss" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368563540019" ignored="false" />
+    <file path="/*.regexp" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368569239366" ignored="false" />
+    <file path="/app.html" changelist="679c6170-0824-4243-b217-921fefe38e81" time="1368569280976" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,26 +219,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="643" selection-end="643" vertical-scroll-proportion="-11.875">
-              <folding>
-                <element signature="tag#script#0;tag#head#0;tag#html#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/servidor/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="17" selection-start="199" selection-end="199" vertical-scroll-proportion="-6.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/servidor/app.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,7 +233,7 @@
       <file leaf-file-name="prototipart.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/css/prototipart.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="628" column="14" selection-start="9740" selection-end="9740" vertical-scroll-proportion="0.0">
+            <state line="3446" column="30" selection-start="158803" selection-end="158803" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#9801#10288#1" expanded="true" />
                 <element signature="e#10464#12565#1" expanded="true" />
@@ -101,12 +260,76 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="apple.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/css/apple.css">
+      <file leaf-file-name="prototipart.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servidor/public/resources/css/prototipart.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10502" column="37" selection-start="457016" selection-end="457016" vertical-scroll-proportion="0.46969697">
+            <state line="8" column="66" selection-start="234" selection-end="234" vertical-scroll-proportion="-4.8">
+              <folding>
+                <element signature="e#9803#10290#1" expanded="true" />
+                <element signature="e#10466#12567#1" expanded="true" />
+                <element signature="e#12762#14943#1" expanded="true" />
+                <element signature="e#15116#17277#1" expanded="true" />
+                <element signature="e#25752#26641#1" expanded="true" />
+                <element signature="e#27196#27857#1" expanded="true" />
+                <element signature="e#76745#81534#1" expanded="true" />
+                <element signature="e#85005#90421#1" expanded="true" />
+                <element signature="e#102487#102600#2" expanded="true" />
+                <element signature="e#102781#102892#2" expanded="true" />
+                <element signature="e#107179#108987#2" expanded="true" />
+                <element signature="e#109265#113877#2" expanded="true" />
+                <element signature="e#114281#119629#2" expanded="true" />
+                <element signature="e#130860#133176#2" expanded="true" />
+                <element signature="e#133412#137985#1" expanded="true" />
+                <element signature="e#140072#142053#2" expanded="true" />
+                <element signature="e#143223#145796#2" expanded="true" />
+                <element signature="e#145851#148131#2" expanded="true" />
+                <element signature="e#148187#150218#2" expanded="true" />
+                <element signature="e#150271#152118#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="38" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/metadata/Application">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="46" selection-start="391" selection-end="391" vertical-scroll-proportion="-4.56">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apple.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/apple.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="116" column="110" selection-start="0" selection-end="323293" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="56" selection-start="699" selection-end="699" vertical-scroll-proportion="0.37019232">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parchment_modified.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servidor/public/resources/startup/parchment_modified.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -119,25 +342,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/servidor/public/app.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding>
-                <element signature="tag#html#0" expanded="true" />
-                <element signature="tag#head#0;tag#html#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/servidor/public/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="38" column="38" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#895#1203#0" expanded="true" />
+                <element signature="e#895#1201#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,16 +372,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/resources/css/prototipart.css" />
-        <option value="$PROJECT_DIR$/app.html" />
         <option value="$PROJECT_DIR$/servidor/package.json" />
         <option value="$PROJECT_DIR$/servidor/app.js" />
         <option value="$PROJECT_DIR$/resources/css/apple.css" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/resources/css/prototipart.css" />
+        <option value="$PROJECT_DIR$/servidor/public/app.js" />
+        <option value="$PROJECT_DIR$/servidor/public/resources/css/prototipart.css" />
+        <option value="$PROJECT_DIR$/servidor/public/resources/css/apple.css" />
+        <option value="$PROJECT_DIR$/app.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="167" />
+    <option name="x" value="166" />
+    <option name="y" value="109" />
     <option name="width" value="1702" />
     <option name="height" value="671" />
   </component>
@@ -291,39 +507,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PrototipArt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PrototipArt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PrototipArt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PrototipArt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="startup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,8 +522,15 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/css" />
+    <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/css" />
+    </key>
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -350,14 +545,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="167" width="1702" height="671" extended-state="0" />
-    <editor active="true" />
+    <frame x="166" y="109" width="1702" height="671" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.94520545" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.52983725" sideWeight="0.94520545" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18820727" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18820727" sideWeight="0.47016275" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -432,42 +627,10 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.74545455">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#895#1201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="643" selection-end="643" vertical-scroll-proportion="-11.875">
-          <folding>
-            <element signature="tag#script#0;tag#head#0;tag#html#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/servidor/public/app.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#html#0" expanded="true" />
-            <element signature="tag#head#0;tag#html#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servidor/public/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#895#1203#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -487,9 +650,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="38" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metadata/Application">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="46" selection-start="391" selection-end="391" vertical-scroll-proportion="-4.56">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/prototipart.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="628" column="14" selection-start="9740" selection-end="9740" vertical-scroll-proportion="0.0">
+        <state line="3446" column="30" selection-start="158803" selection-end="158803" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#9801#10288#1" expanded="true" />
             <element signature="e#10464#12565#1" expanded="true" />
@@ -515,16 +699,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sh">
+    <entry file="file://$PROJECT_DIR$/servidor/public/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+        <state line="38" column="38" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#895#1201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servidor/public/resources/css/prototipart.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="66" selection-start="234" selection-end="234" vertical-scroll-proportion="-4.8">
+          <folding>
+            <element signature="e#9803#10290#1" expanded="true" />
+            <element signature="e#10466#12567#1" expanded="true" />
+            <element signature="e#12762#14943#1" expanded="true" />
+            <element signature="e#15116#17277#1" expanded="true" />
+            <element signature="e#25752#26641#1" expanded="true" />
+            <element signature="e#27196#27857#1" expanded="true" />
+            <element signature="e#76745#81534#1" expanded="true" />
+            <element signature="e#85005#90421#1" expanded="true" />
+            <element signature="e#102487#102600#2" expanded="true" />
+            <element signature="e#102781#102892#2" expanded="true" />
+            <element signature="e#107179#108987#2" expanded="true" />
+            <element signature="e#109265#113877#2" expanded="true" />
+            <element signature="e#114281#119629#2" expanded="true" />
+            <element signature="e#130860#133176#2" expanded="true" />
+            <element signature="e#133412#137985#1" expanded="true" />
+            <element signature="e#140072#142053#2" expanded="true" />
+            <element signature="e#143223#145796#2" expanded="true" />
+            <element signature="e#145851#148131#2" expanded="true" />
+            <element signature="e#148187#150218#2" expanded="true" />
+            <element signature="e#150271#152118#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servidor/public/resources/startup/parchment_modified.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servidor/public/resources/css/apple.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="515" column="0" selection-start="16495" selection-end="16495" vertical-scroll-proportion="16.830065">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/apple.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10502" column="37" selection-start="457016" selection-end="457016" vertical-scroll-proportion="0.46969697">
+        <state line="116" column="110" selection-start="0" selection-end="323293" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="56" selection-start="699" selection-end="699" vertical-scroll-proportion="0.37019232">
           <folding />
         </state>
       </provider>

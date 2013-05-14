@@ -4,7 +4,7 @@ body, div, dl, dt, dd, ul, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, le
 }
 
 body{
-	background:url(../startup/splashScreen.png);
+	background:url(../startup/splashScreen.jpg);
 	background-size:contain;
 }
 
@@ -3444,7 +3444,7 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 #splashLoader {
-	background:url(../startup/splashScreen.png);
+	background:url(../startup/splashScreen.jpg);
 	background-size:contain;
 	position:absolute;
 	top:0;

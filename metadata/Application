@@ -15,7 +15,7 @@
         ],
         "name": "MyApp",
         "startupImage": [
-            "{\"320x460\":\"resources/startup/splashScreen.png\"}"
+            "{\"320x460\":\"resources/startup/splashScreen.jpg\"}"
         ]
     },
     "designerId": "application",
@@ -50,7 +50,7 @@
                     "",
                     "new Ext.util.DelayedTask(function () {",
                     "    Ext.Viewport.setMasked(false);",
-                    "}).delay(3000);",
+                    "}).delay(500);",
                     "",
                     "",
                     "",

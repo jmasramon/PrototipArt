@@ -33,7 +33,7 @@ Ext.application({
     ],
     name: 'MyApp',
     startupImage: {
-        '320x460': 'resources/startup/splashScreen.png'
+        '320x460': 'resources/startup/splashScreen.jpg'
     },
 
     launch: function() {
