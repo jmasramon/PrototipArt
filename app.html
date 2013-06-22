@@ -6,6 +6,15 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>PrototipArt</title>
+    <!-- L'estil per def per apple -->
+    <!-- link rel="stylesheet" href="resources/css/apple.min.css" --> <!-- Canviar-ho a producció minificant el de abaix -->
+    <link rel="stylesheet" href="resources/css/apple.css">
+    <!-- Estil nostre afegit -->
+    <link rel="stylesheet" href="resources/css/prototipart.css" id="cssfile">
+    <!-- El propi sencha -->
+    <script src="http://extjs.cachefly.net/touch/sencha-touch-2.1.1/sencha-touch-all.js"></script>
+    <!-- Per la geolocalització -->
+    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
     <script type="text/javascript">
         if (!Ext.browser.is.WebKit) {
             alert("The current browser is unsupported.\n\nSupported browsers:\n" +
@@ -17,10 +26,17 @@
             );
         }
     </script>
-    <link rel="stylesheet" href="resources/css/apple.min.css">
-    <link rel="stylesheet" href="resources/css/prototipart.css" id="cssfile">
-    <script src="http://extjs.cachefly.net/touch/sencha-touch-2.1.1/sencha-touch-all.js"></script>
-    <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script type="text/javascript">
+         function toggle_visibility (id) {
+            var e = document.getElementById(id);
+            var button = document.getElementById('ext-button-1');
+
+            e.style.visibility = 'visible';
+            button.style.visibility = 'hidden';
+        }
+    </script>
+
+    <!-- L'aplicació -->
     <script type="text/javascript" src="app.js"></script>
 </head>
 <body></body>

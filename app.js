@@ -37,19 +37,16 @@ Ext.application({
     },
 
     launch: function() {
-        Ext.Viewport.setMasked({
-            xtype: 'loadmask',
-            message: 'Loading, please wait'
-        });
+//        Ext.Viewport.setMasked({
+//            xtype: 'loadmask',
+//            message: 'Loading, please wait'
+//        });
 
         new Ext.util.DelayedTask(function () {
-            Ext.Viewport.setMasked(false);
-        }).delay(3000);
+//            Ext.Viewport.setMasked(false);
+            Ext.create('MyApp.view.MyMap', {fullscreen: true});
+        }).delay(1500);
 
-
-
-
-        Ext.create('MyApp.view.MyMap', {fullscreen: true});
     }
 
 });

@@ -25,11 +25,16 @@ Ext.define('MyApp.view.MyMap', {
         console.log("In initialize function i am:" + this.self.getName());
         var position = new google.maps.LatLng(41.987399,2.826215); // Catedral de girona
 
+        Ext.Viewport.setMasked({
+            xtype: 'loadmask',
+            message: 'Loading maps, please wait'
+        });
+
         new Ext.util.DelayedTask(function () {
             if (this!=me){
-                console.log("In delayed task i am a different me");
+                // console.log("In delayed task i am a different me. Now i am = " + this.getName() );
             }
-            me.setMapOptions({ 
+            me.setMapOptions({
                 title: '#' + 1,
                 useCurrentLocation: false,
                 autoCenter: true,
@@ -40,7 +45,7 @@ Ext.define('MyApp.view.MyMap', {
 
             marker.setMap(me.getMap());
 
-            flightPath.setMap(me.getMap()); 
+            flightPath.setMap(me.getMap());
 
             for (var i = flightPath.getPath().getLength() - 1; i > 0; i--) {
                 var marker2 = new google.maps.Marker({
@@ -48,7 +53,8 @@ Ext.define('MyApp.view.MyMap', {
                     title: '#' + i,
                     map: me.getMap()
                 });
-            }   
+            }
+            Ext.Viewport.setMasked(false);
         }).delay(3000);
 
 
@@ -64,24 +70,26 @@ Ext.define('MyApp.view.MyMap', {
         var youAreHere = new google.maps.Marker({
             position: new google.maps.LatLng(41.986699,2.824143), // Mig del pont
             map: googleMap,
-            icon: {url: 'resources/img/blue_MarkerA.png'}
+            icon: {url: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAiCAYAAABfqvm9AAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAATcSURBVHjaYmTADeSB2AWI9YGYDyr2BYgvAfFeIL6LTRNAADFiEeMC4nIgzmRl5xYVktJm4BGQZWBgZGT4+uEJw9unVxh+//zyDig/C4jbgPgzsmaAAEI3UBGI13DzSxrpOxcxqJpG/ucTkmZgZmQAq/v7n+H/5/fPGe6eX814fncPw5d3j68ChUOA+AbMAIAAQjZQBYj3y2q5ybglLfvPzy/M+Oc/0JB/qDYyATErM9DvXz8y7F4Qz3D/wsZXQCFnIL4CkgcIIJiBnEB8VFbT3dA/bxMDEyMbw18G/ABoJsP//38Zts4KZbh3fj3IheZA/AkggJig8mXcAtKGHimL/2Mz7MiqAob1fQ4Mn98+gIuB1DAyMzO4Jcz/zyeipAHk1oLEAQIIZJEkEE8z927kV9J2Zvz9H9UwkCG75kYC6Ydgvpy2B1zuP1AtJzsHIxMbF8P9S5tVQeEPEEAgFzqwsHLJqpqGMfz+h+m1exc2gGl9p3yG68cXYMiD9CgbBv1n5xIUBYUlQACBDDQWktJk4AXG5r//mAZe3DuBQVHfn0HDMoHh1/ePDDfQDAXp4eIWZhSW1gVxdQACCGSgMDc/OGlggDePLzB8fvcQbJiIrAHQUnmwBeiACWgKj6AMiMkPEEDgSGFkYsQakxf3QTSzcwkwPL11gEFa3YHhzZOLYIswcggjxAyAAGIB4vdf3j0FJVoU8PPbB3j4behzxLDIOR7hdZDWL++fgJifAAIIZOCZ9y+vAwWeMXDxSzHAzL1/cQM4zMKrz4O9CwPbpgeALbIJ/QB2OchdXz+9+//mySUQ8wpAAIG8fPD3z6/P7p5fx8DCjHAFKEZBYYZsGAjAIgdkIdiLQBPuX97E+PPb+7egnAYQQCADnwLx7DM7Oxm+f/v4H+ZdcFJxLsAIKyWDAHCsg8MRqPrnz8//T29rBUmBwuAOQADBYoMHiE8q6gdo+WSu/f+PAUcsoWc/Job/O+ZEM946tewekGsKxO8AAgjmyV+gMu7DyxtB71/e5lMzCQbnAnwA5NU9i9IYbxxf+AbI9QJicL4ECCCkUGMAhcGBd8+uRALTEbuipj1GSYNs2Pm9kxnObG/9AeT6APFpmBxAADGjqX0OiuCnNw+GSKraMwiJKmDkHpBhb55e+b9jdgTjv7+/84FCa5HlAQKICYsDVgJDe8nBFbkMv379+I8tMI+sLWf88+vbflChgi4HEEBMOIKoFljUf7x8cAYjK5IfQOx7l7YxPLyyDcStwaYRIIBwGQgK4FkX901i+PHjO9yVwOgH5pKJIOYWID6GTSNAADHhicjJn97e//Lg8lZGULgxg8Lu+TWGx9f3gOVwaQIIIHwGPgbiTTdPLYHEHtCZd86uASanf6BqdBcuTQABxEQg7a55ducww9ev7xn+Ab0LdC1IbBM+DQABRMjAwz++vPv4+tEFhq9f3gCTy0Vw+YBPA0AAsRAwEJQLLr95ct6GEWj1398/X0BbDjgBQACxEJFlzwKTkM3f36DcyXAZVFrhUwwQQMQYePXjqzvAIusTAyHXgQBAABFj4MPP7x4xfPv0ElxMElIMEEDEGPjm68fnsHrnESHFAAFEjIGf//399R/YVACZ+ImQYoAAYiLCwI9A/A2piMMLAAKIhUgDn0EbVK8JKQYIMABhubHIul5+4wAAAABJRU5ErkJggg=='}
         });
 
         var infowindow = new google.maps.InfoWindow({
-            content: '<img src="Jardines de la catedral de Girona.jpg" alt="logo" width="50" height="44" aligh="left"/>Catedral de girona<br>'
+            content:    '<img src="data:image/jpg;base64,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">'+
+                        'Catedral de girona<br>'
         });
 
         google.maps.event.addListener(marker, 'click', function(){
             //infowindow.open(map,marker);
             console.log('Tapped');
             var myTabPanel = Ext.create('MyApp.view.MyTabPanel');
-            var myCarousel = Ext.create('MyApp.view.MyCarousel');
+            // var myCarousel = Ext.create('MyApp.view.MyCarousel');
             Ext.Viewport.add(myTabPanel);
             myTabPanel.show();
+
         });
 
         // google.maps.event.addListener(googleMap, 'click', function(event) {
-        //     addMarker(event.latLng);
+        //     this.addMarker(event.latLng);
         // });   
 
         function addMarker(location) {
@@ -93,10 +101,10 @@ Ext.define('MyApp.view.MyMap', {
         }
 
         var flightPlanCoordinates = [
-        new google.maps.LatLng(41.987399,2.826215), // Catedral
-        new google.maps.LatLng(41.98692,2.826536), // Museu d'art
-        new google.maps.LatLng(41.988326,2.825574), // Banys arebs
-        new google.maps.LatLng(41.986566,2.828088) // Muralla
+            new google.maps.LatLng(41.987399,2.826215), // Catedral
+            new google.maps.LatLng(41.98692,2.826536), // Museu d'art
+            new google.maps.LatLng(41.988326,2.825574), // Banys arebs
+            new google.maps.LatLng(41.986566,2.828088) // Muralla
         ];
 
         var flightPath = new google.maps.Polyline({
